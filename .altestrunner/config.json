@@ -1,0 +1,17 @@
+{
+    "containerResultPath":  "C:\\ProgramData\\BcContainerHelper",
+    "launchConfigName":  "Launch Docker Test",
+    "securePassword":  "01000000d08c9ddf0115d1118c7a00c04fc297eb0100000012ab51b4ad1bc74080d8857682529c4800000000020000000000106600000001000020000000edb2c43219fad836f74e94ef57e16fcfc0376b9700e96534041b92b0f80643e4000000000e800000000200002000000013572da5944431452bd898dee95e1a8f7f0b666a9b60cdaed537d6224f73e830100000008d4b9fe7d2d24ceeadcec2ba7f1cdef740000000dfbc27316866d55ec7b4175759f63ee8a3b7494cb9825a817836685a5c27f3c1290ff455c48c0014bb78cf2c2e28107fe2e1aa641a0dd5fac9c0211875b010df",
+    "userName":  "admin",
+    "userPassword":  "admin",
+    "companyName":  "CRONUS UK Ltd.",
+    "testSuiteName":  "",
+    "vmUserName":  "",
+    "vmSecurePassword":  "",
+    "remoteContainerName":  "",
+    "dockerHost":  "",
+    "newPSSessionOptions":  "",
+    "testRunnerServiceUrl":  "http://BC-TEST:7048/BC/ODataV4/TestRunner?company=CRONUS UK Ltd.\u0026tenant=default",
+    "codeCoveragePath":  ".//.altestrunner//codecoverage.json",
+    "culture":  "en-US"
+}
